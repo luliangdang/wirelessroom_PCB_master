@@ -72,10 +72,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVQDPMPT
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 无线门禁系统\无线门禁系统.REP
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
